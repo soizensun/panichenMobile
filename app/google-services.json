@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118483000095",
+    "firebase_url": "https://panichen-f7461.firebaseio.com",
+    "project_id": "panichen-f7461",
+    "storage_bucket": "panichen-f7461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118483000095:android:0c9bedd0a4c3a6582c6e2a",
+        "android_client_info": {
+          "package_name": "com.example.zozen.panichen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118483000095-h2nqqntiflledknh2uoqtt0l6jfv1134.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zozen.panichen",
+            "certificate_hash": "20460c4483ec94e446a1ae4644cdfdc8f5f647d9"
+          }
+        },
+        {
+          "client_id": "118483000095-gu95q1lp9bifv0dlujr4i4io2ihc7ab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqTv9XYA2wQeADc6wR-5fEJLZwAnrfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118483000095-gu95q1lp9bifv0dlujr4i4io2ihc7ab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
